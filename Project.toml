@@ -1,0 +1,7 @@
+name = "ParallelMagics"
+uuid = "758f173b-d66c-4f44-9689-9b99b4c7c086"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[compat]
+julia = "1.6"
