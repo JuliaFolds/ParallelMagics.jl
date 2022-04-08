@@ -1,0 +1,11 @@
+name = "ParallelMagicsTests"
+uuid = "13cba1f6-76ac-4973-aa6c-0b61658d90eb"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[deps]
+ParallelMagics = "758f173b-d66c-4f44-9689-9b99b4c7c086"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.6"
